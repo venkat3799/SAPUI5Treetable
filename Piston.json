@@ -1,0 +1,159 @@
+{
+
+  "catalog": {
+
+    "Piston": {
+
+      "categories": [
+
+        
+
+        {
+
+          "name": "3030",
+
+         
+
+          "categories": [
+		  {
+
+              "name": "SOL",
+
+              "FacilityID": "9639",
+
+			"AssyTyp": "SERIALISED_PURCHASED",
+
+              "categories": []
+
+            },
+
+            {
+
+              "name": "Traceability 1",
+
+              "FacilityID": "9728",
+
+			"AssyTyp": "SERIALISED_PURCHASED",
+
+              "categories": []
+
+            },
+
+            {
+
+              "name": "Quality 1",
+
+              "FacilityID": "9736",
+			"AssyTyp": "SERIALISED_PURCHASED",
+
+              "categories": []
+
+            }
+		
+
+          ]
+
+        },
+
+		{
+
+          "name": "1070",
+
+         
+
+          "categories": [
+
+            {
+
+              "name": "Traceability 1",
+
+              "FacilityID": "9740",
+
+		"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 2",
+
+              "FacilityID": "9741",
+
+			"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 3",
+
+              "FacilityID": "9742",
+
+			"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 4",
+
+              "FacilityID": "9743",
+
+			"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 5",
+
+              "FacilityID": "9744",
+
+				"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 6",
+
+              "FacilityID": "9745",
+
+				"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 7",
+
+              "FacilityID": "9746",
+
+				"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            },{
+
+              "name": "Traceability 8",
+
+              "FacilityID": "9747",
+
+				"AssyTyp": "SERIALISED_SUBASSY",
+
+              "categories": []
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+
+    }
+
+  }
+
+}
